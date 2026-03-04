@@ -1,2 +1,2 @@
 # neural_networks_2
-2nd assignment for the course of Neural Networks and Deeplearning (csd)
+This repository is for the 2nd homework of Neural Networks and Deep Learning in CSD Auth, where we experiment with different parameters of different SVM kernels (linear, RBF, polynomial) for classification. We also try to see the effect of the coefficient in the polynomial SVM and furthermore train a Self-Supervised CNN trained to predict multiple rotations of augmenented images and later used as the Embeddings in the optimal RBF kernel.
